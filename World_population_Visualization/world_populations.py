@@ -39,4 +39,4 @@ world_map.add("10 Million" , c_code_1)
 world_map.add("10 Mil - 1 Bn" , c_code_2)
 world_map.add(">1 Billion" , c_code_3)
 
-world_map.render_to_file("world_population.svg")
+world_map.render_to_file("Final_Graph.svg")
