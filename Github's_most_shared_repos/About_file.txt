@@ -1,0 +1,14 @@
+About File :
+The code is simply to collect the best repos that are shared the most in python. the code collects the data from the github's API address. Simply the address
+gives raw data with if we turn that data into a directory then we can create a cool Pygal histogram presentration. 
+
+
+
+Origin : 
+The Github's_most_shared_repos is a training project that i learned from Eric Mattrew's Python Crash Course. If you want to find the specific details, 
+the file tutorial is at Pg 422 of 562. 
+Please note that the plot_dict dictionary has an error. I am not sure but there were errors of Decode while rendering the data. I spent my time to research 
+and see what i could do to make the error removed. That's why i have written this code
+
+
+
