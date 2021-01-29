@@ -10,5 +10,8 @@ the file tutorial is at Pg 422 of 562.
 Please note that the plot_dict dictionary has an error. I am not sure but there were errors of Decode while rendering the data. I spent my time to research 
 and see what i could do to make the error removed. That's why i have written this code
 
+If there is any Issue, Let me know.
+This File is bug checked!
+
 
 
