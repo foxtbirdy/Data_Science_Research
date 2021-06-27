@@ -1,8 +1,6 @@
 # <i>Repo Details -</i> 
 
-This is where all the data visualization based projects are done
-All files in folder are done with multiple scripts of code.     
-
+Welcome to the Repository called Data_Science_Reasearch. A repo that is dedicated to researching new functionality and outputs of several languages. This Repository will also contain the files of Mathematics and equation that are intergeted in code. 
 
 While navigating the folders, be sure to look out for their readme files. They are very helpful to get your attention to what files you be looking at. <br>
 
